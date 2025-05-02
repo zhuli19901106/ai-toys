@@ -1,2 +1,2 @@
 # ai-toys
-用AI实现一些随意的小工具、小实验，纯业余项目。
+Use AI to do some small hobby projects.
